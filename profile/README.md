@@ -10,9 +10,9 @@ We build free, open-source tools and AI skills that help content teams, develope
 
 - **[EDS Content Ops Skills](https://github.com/focus-gts/eds-content-ops-skills)** — The first third-party content operations skills for Adobe EDS. Page auditing, GEO optimization, WCAG accessibility, bulk metadata management, and content diffing. [Submitted to Adobe's official skills repo.](https://github.com/adobe/skills/pull/134)
 
-- **[Pre-Flight](https://github.com/focusgts/preflight)** — Free AEM Cloud Manager quality gate checker. 104 rules, 1,141 tests, 100% client-side. Catch pipeline failures before you push.
-
 ### Products
+
+- **[Pre-Flight](https://www.focusgts.com/preflight)** — Free AEM Cloud Manager quality gate checker. 104 rules, 1,141 tests, 100% client-side. Catch pipeline failures before you push.
 
 - **Navigator** — Subscription managed service for Adobe and Salesforce operations. AI-powered knowledge management, ticket triage, and continuous optimization.
 
