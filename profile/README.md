@@ -1,6 +1,6 @@
 # Focus GTS
 
-**Adobe partner building AI-powered content operations for Edge Delivery Services.**
+**Adobe Silver Solution Partner building AI-powered content operations for Edge Delivery Services.**
 
 We build free, open-source tools and AI skills that help content teams, developers, and marketers get more out of Adobe Edge Delivery Services. Our mission: close the execution gap between what EDS can do and what teams actually ship.
 
@@ -8,9 +8,13 @@ We build free, open-source tools and AI skills that help content teams, develope
 
 ### Open Source
 
-- **[EDS Content Ops Skills](https://github.com/focus-gts/eds-content-ops-skills)** — Content operations skills for Adobe EDS. Page auditing, GEO optimization, WCAG accessibility, bulk metadata management, and content diffing. [Contributed to Adobe's official skills repo.](https://github.com/adobe/skills/pull/134)
+- **[EDS Content Ops Skills](https://github.com/focusgts/eds-content-ops-skills)** — 43 AI skills for Adobe EDS: page auditing, SEO optimization, WCAG accessibility, bulk metadata, structured data, sitemap validation, and more. First third-party contribution merged into [Adobe's official skills repo](https://github.com/adobe/skills).
 
-- **[EDS Score](https://github.com/focus-gts/eds-score)** — Free site health analyzer for Edge Delivery Services. Scores Performance, SEO, Accessibility, Freshness, and Configuration. [Live tool.](https://www.focusgts.com/eds-score/)
+- **[EDS MCP Server](https://www.npmjs.com/package/@focusgts/eds-mcp-server)** — MCP server giving AI agents (Claude Code, Cursor, VS Code Copilot) programmatic access to EDS operations. 20 tools for preview, publish, content reading, analytics, and site configuration.
+
+- **[EDS Ops](https://github.com/focusgts/eds-ops)** — CLI health scanner and GitHub Action for automated EDS site grading and PR gating. Scores Performance, SEO, Accessibility, Freshness, and Configuration.
+
+- **[EDS Score](https://www.focusgts.com/eds-score/)** — Free browser-based site health analyzer for EDS sites.
 
 ### Products
 
@@ -24,10 +28,11 @@ We build free, open-source tools and AI skills that help content teams, develope
 
 | | |
 |---|---|
-| EDS Content Ops Skills | 21 built, growing to 100 |
+| EDS Content Ops Skills | 43 built, 11 merged into adobe/skills |
+| EDS MCP Server Tools | 20 (preview, publish, analytics, content, config) |
 | Pre-Flight Quality Rules | 104 |
 | Adobe Ecosystem Coverage | AEM, EDS, Cloud Manager, Analytics, Target |
-| Open source contributions | [adobe/skills](https://github.com/adobe/skills/pull/134), [Block Party](https://www.aem.live/developer/block-party/) |
+| Open source contributions | [adobe/skills](https://github.com/adobe/skills) (3 merged PRs), [Block Party](https://www.aem.live/developer/block-party/) |
 
 ---
 
