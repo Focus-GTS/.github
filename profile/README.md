@@ -1,8 +1,8 @@
 # Focus GTS
 
-**Adobe Silver Solution Partner building AI-powered content operations for Edge Delivery Services.**
+**Adobe Silver Solution Partner. MCP servers and AI-powered tooling for the Adobe Experience Cloud.**
 
-We build free, open-source tools and AI skills that help content teams, developers, and marketers get more out of Adobe Edge Delivery Services. Our mission: close the execution gap between what EDS can do and what teams actually ship.
+We build free, open-source tools and AI skills that help teams get more out of Adobe — from Edge Delivery Services content operations to Cloud Manager quality gates to experience platform integrations. Our mission: close the execution gap between what Adobe's platforms can do and what teams actually ship.
 
 ---
 
@@ -16,9 +16,9 @@ We build free, open-source tools and AI skills that help content teams, develope
 
 - **[EDS Score](https://www.focusgts.com/eds-score/)** — Free browser-based site health analyzer for EDS sites.
 
-### Products
-
 - **[Pre-Flight](https://www.focusgts.com/preflight)** — Free AEM Cloud Manager quality gate checker. 104 rules, 1,141 tests, 100% client-side. Catch pipeline failures before you push.
+
+### Products
 
 - **Navigator** — Subscription managed service for Adobe and Salesforce operations. AI-powered knowledge management, ticket triage, and continuous optimization.
 
