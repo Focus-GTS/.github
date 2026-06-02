@@ -20,7 +20,7 @@ We build free, open-source tools and AI skills that help teams get more out of A
 
 ### Products
 
-- **Navigator** — Subscription managed service for Adobe and Salesforce operations. AI-powered knowledge management, ticket triage, and continuous optimization.
+- **[Navigator](https://navigator.focusgts.com)** — Subscription managed service for Adobe and Salesforce operations. AI-powered knowledge management, ticket triage, and continuous optimization.
 
 ---
 
