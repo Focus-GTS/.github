@@ -8,11 +8,11 @@ We build free, open-source tools and AI skills that help teams get more out of A
 
 ### Open Source
 
-- **[EDS Content Ops Skills](https://github.com/focusgts/eds-content-ops-skills)** — 43 AI skills for Adobe EDS: page auditing, SEO optimization, WCAG accessibility, bulk metadata, structured data, sitemap validation, and more. First third-party contribution merged into [Adobe's official skills repo](https://github.com/adobe/skills).
+- **[EDS Content Ops Skills](https://github.com/Focus-GTS/eds-content-ops-skills)** — 43 AI skills for Adobe EDS: page auditing, SEO optimization, WCAG accessibility, bulk metadata, structured data, sitemap validation, and more. First third-party contribution merged into [Adobe's official skills repo](https://github.com/adobe/skills).
 
 - **[EDS MCP Server](https://www.npmjs.com/package/@focusgts/eds-mcp-server)** — MCP server giving AI agents (Claude Code, Cursor, VS Code Copilot) programmatic access to EDS operations. 20 tools for preview, publish, content reading, analytics, and site configuration.
 
-- **[EDS Ops](https://github.com/focusgts/eds-ops)** — CLI health scanner and GitHub Action for automated EDS site grading and PR gating. Scores Performance, SEO, Accessibility, Freshness, and Configuration.
+- **[EDS Ops](https://github.com/Focus-GTS/eds-ops)** — CLI health scanner and GitHub Action for automated EDS site grading and PR gating. Scores Performance, SEO, Accessibility, Freshness, and Configuration.
 
 - **[EDS Score](https://www.focusgts.com/eds-score/)** — Free browser-based site health analyzer for EDS sites.
 
