@@ -1,26 +1,33 @@
 # Focus GTS
 
-**Adobe Silver Solution Partner. MCP servers and AI-powered tooling for the Adobe Experience Cloud.**
+**Adobe Silver Solution Partner. We build the AI agent layer for the Adobe Experience Cloud.**
 
-We build free, open-source tools and AI skills that help teams get more out of Adobe — from Edge Delivery Services content operations to Cloud Manager quality gates to experience platform integrations. Our mission: close the execution gap between what Adobe's platforms can do and what teams actually ship.
+MCP servers and Claude skills that let AI agents operate Adobe's platforms directly — across content, creative, and customer data. Production-grade, built to Adobe's own conventions, and often the first of their kind. Our mission: close the gap between what Adobe's platforms can do and what teams actually ship.
 
 ---
 
-### Open Source
+### Content — Edge Delivery Services (AEM)
 
-- **[EDS Content Ops Skills](https://github.com/Focus-GTS/eds-content-ops-skills)** — 43 AI skills for Adobe EDS: page auditing, SEO optimization, WCAG accessibility, bulk metadata, structured data, sitemap validation, and more. First third-party contribution merged into [Adobe's official skills repo](https://github.com/adobe/skills).
-
-- **[EDS MCP Server](https://www.npmjs.com/package/@focusgts/eds-mcp-server)** — MCP server giving AI agents (Claude Code, Cursor, VS Code Copilot) programmatic access to EDS operations. 20 tools for preview, publish, content reading, analytics, and site configuration.
-
-- **[EDS Ops](https://github.com/Focus-GTS/eds-ops)** — CLI health scanner and GitHub Action for automated EDS site grading and PR gating. Scores Performance, SEO, Accessibility, Freshness, and Configuration.
-
+- **[EDS Content Ops Skills](https://github.com/Focus-GTS/eds-content-ops-skills)** — 43 AI skills for Adobe EDS: auditing, SEO, accessibility, structured data, migration, and more. First third-party contributor merged into [Adobe's official skills repo](https://github.com/adobe/skills).
+- **[EDS MCP Server](https://github.com/Focus-GTS/eds-mcp-server)** — 20 tools for preview, publish, content, analytics, and config. Live in the [official MCP registry](https://registry.modelcontextprotocol.io). The first MCP server purpose-built for EDS.
+- **[EDS Ops](https://github.com/Focus-GTS/eds-ops)** — CLI health scanner and GitHub Action for automated site grading and PR gating.
 - **[EDS Score](https://www.focusgts.com/eds-score/)** — Free browser-based site health analyzer for EDS sites.
 
-- **[Pre-Flight](https://www.focusgts.com/preflight)** — Free AEM Cloud Manager quality gate checker. 104 rules, 1,141 tests, 100% client-side. Catch pipeline failures before you push.
+### Creative — Firefly Services
 
-### Products
+- **[Firefly Services MCP Server](https://github.com/Focus-GTS/firefly-services-mcp)** — 19 tools exposing Firefly, Photoshop API, and Lightroom API to AI agents. Generate, expand, composite, and process images directly from a Claude Code session.
+- **[Firefly Services Skills](https://github.com/Focus-GTS/firefly-services-skills)** — 19 Claude skills covering the full Firefly Services lifecycle — auth, generation, custom models, video, Photoshop and Lightroom automation — distilled from real enterprise FDE engagements.
 
-- **[Navigator](https://navigator.focusgts.com)** — Subscription managed service for Adobe and Salesforce operations. AI-powered knowledge management, ticket triage, and continuous optimization.
+### Data — Adobe Experience Platform
+
+- **[AEP MCP Server](https://github.com/Focus-GTS/aep-mcp-server)** — The first full-featured MCP server for Adobe Experience Platform: full read/write across schemas, datasets, identities, profiles, segments, sources, destinations, and query service.
+
+---
+
+### Also from FocusGTS
+
+- **[Pre-Flight](https://www.focusgts.com/preflight)** — Free AEM Cloud Manager quality gate checker. 104 rules, 1,141 tests, 100% client-side.
+- **[Navigator](https://navigator.focusgts.com)** — Managed service for Adobe and Salesforce operations: AI-powered knowledge management, ticket triage, and continuous optimization.
 
 ---
 
@@ -28,12 +35,12 @@ We build free, open-source tools and AI skills that help teams get more out of A
 
 | | |
 |---|---|
-| EDS Content Ops Skills | 43 built, 11 merged into adobe/skills |
-| EDS MCP Server Tools | 20 (preview, publish, analytics, content, config) |
-| Pre-Flight Quality Rules | 104 |
-| Adobe Ecosystem Coverage | AEM, EDS, Cloud Manager, Analytics, Target |
-| Open source contributions | [adobe/skills](https://github.com/adobe/skills) (3 merged PRs), [Block Party](https://www.aem.live/developer/block-party/) |
+| MCP servers | 3 (EDS, Firefly Services, Experience Platform) — 60+ tools |
+| AI skills | 62+ across EDS and Firefly Services |
+| Merged into adobe/skills | 11 skills — first third-party contributor |
+| Distribution | Official MCP registry, Glama, awesome-mcp-servers, npm |
+| Adobe coverage | EDS/AEM, Firefly, Photoshop, Lightroom, Experience Platform, Cloud Manager |
 
 ---
 
-*Adobe Silver Solution Partner*
+*Adobe Silver Solution Partner · Not affiliated with or endorsed by Adobe Inc.*
