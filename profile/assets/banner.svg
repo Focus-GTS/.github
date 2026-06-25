@@ -64,6 +64,6 @@
   <!-- proof tag, top right -->
   <g font-family="Helvetica, Arial, sans-serif">
     <rect x="903" y="40" width="313" height="34" rx="17" fill="#161208" stroke="#5a4a14" stroke-width="1.5"/>
-    <text x="924" y="62" font-size="15" fill="#f2c94c" font-weight="600">11 skills merged into adobe/skills</text>
+    <text x="924" y="62" font-size="15" fill="#f2c94c" font-weight="600">12 skills merged into adobe/skills</text>
   </g>
 </svg>
