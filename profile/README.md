@@ -71,7 +71,7 @@ These were generated **live through our [Firefly Services MCP server](https://gi
 |---|---|
 | MCP servers | 3 (EDS, Firefly Services, Experience Platform) — 60+ tools |
 | AI skills | 62+ across EDS and Firefly Services |
-| Merged into adobe/skills | 11 skills — first third-party contributor |
+| Merged into adobe/skills | 12 skills — first third-party contributor |
 | Distribution | Official MCP registry · Glama · awesome-mcp-servers · npm |
 | Adobe coverage | EDS/AEM · Firefly · Photoshop · Lightroom · Experience Platform · Cloud Manager |
 
